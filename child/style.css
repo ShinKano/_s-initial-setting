@@ -1,0 +1,21 @@
+/*
+Theme Name:child
+Theme URI:空欄でいい
+Description:空欄でいい
+Template:portfolio
+Author:空欄でいい
+Author URI:空欄でいい
+Version:2.2
+*/
+
+* {
+  border: 1px dotted red;
+}
+
+.entry-title {
+  display: none;
+}
+
+.entry-content {
+  background-color: #aaa;
+}
